@@ -1,5 +1,5 @@
-# 2c.SIMULATING ARP /RARP PROTOCOLS
-## AIM
+# EX.NO.2c - SIMULATING ARP /RARP PROTOCOLS
+## AIM:
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
 ## Client:
@@ -17,6 +17,7 @@ stored.
 5. Map the IP address with its MAC address and return the MAC address to client.
 P
 ## PROGRAM - ARP
+
 ## OUPUT - ARP
 ## PROGRAM - RARP
 ## OUPUT -RARP
