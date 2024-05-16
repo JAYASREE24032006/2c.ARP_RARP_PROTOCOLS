@@ -1,4 +1,7 @@
 # EX.NO.2c - SIMULATING ARP /RARP PROTOCOLS
+
+**DATE : 13.03.2024**
+
 ## AIM:
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
